@@ -1,5 +1,6 @@
 # CV
 # TATSIANA BULAVSKAYA
+![](img/me.jpg)
 ## Contacts for communication:
 **Address:** Zhodino, Belarus \
 **Phone:** +375 29 924 74 64 \
@@ -12,3 +13,19 @@ I have been working for a long time as a document support specialist at a state 
 ## Skills:
 * Markdown
 * Git 
+
+## Code example:
+```
+let sum = prompt('What is the amount?','');
+if (sum == 300) alert ('OK');
+```
+
+## Experience:
+
+## Education
+* BSTU\
+2012-2017
+
+## Languages
+* Russian (Native)
+* English (A2)
