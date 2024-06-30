@@ -1,6 +1,6 @@
 # CV
 # TATSIANA BULAVSKAYA
-![Me](img/me.jpg)
+![Me](img/Me.jpg)
 ## Contacts for communication:
 **Address:** Zhodino, Belarus \
 **Phone:** +375 29 924 74 64 \
